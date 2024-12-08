@@ -1,4 +1,4 @@
 # trimblehub.xyz
 
-✨ * Discover trimblehub
+✨ * Discover trimblehub \n
 🌐 * trimblehub.xyz
